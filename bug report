@@ -1,0 +1,18 @@
+{
+	"bug report" : {
+	   "ID" : 3,
+	   "Summary" : "There is no information about the discount on the yellow duck in the section Скидки и акции",
+	   "Description" : {
+	   		"Steps for reproduce" : {
+	   			"1" : "Open website",
+	   			"2" : "Click on the tab Скидки и акции"
+	   		},
+	   		"Expected resut" : "There is information about the discount on the yellow duck in the section Скидки и акции",
+	   		"Actual result" : "There is no information about the discount on the yellow duck in the section Скидки и акции"
+	   },
+	   "Workaround" : "yes",
+	   "Reproducibility" : "always",
+	   "Severity" : "medium",
+	   "Priority" : "medium"
+	}
+}
